@@ -5,10 +5,10 @@
 
 Welcome to my profile! Below is a list of my projects categorized by language. Click on a project to access its repository. 🚀  
 
-## 🔢 Machine Learning  
+### 🔢 Machine Learning  
 - [📈 ft_linear_regression](https://github.com/pchapuis1/ft_linear_regression) – Linear regression in Python.  
 
-## 🖥️ C Development  
+### 🖥️ C Development  
 - [🎮 so_long](https://github.com/pchapuis1/so_long) – 2D game using the minilibX library.  
 - [🔢 push_swap](https://github.com/pchapuis1/push_swap) – Sorting algorithm with two stacks.  
 - [🔗 pipex](https://github.com/pchapuis1/pipex) – Reimplementation of pipe redirections (`|`).  
@@ -19,12 +19,12 @@ Welcome to my profile! Below is a list of my projects categorized by language. C
 - [🖨️ ft_printf](https://github.com/pchapuis1/ft_printf) – Custom implementation of `printf`.  
 - [🕹️ cub3d](https://github.com/pchapuis1/cub3d) – Raycasting engine inspired by Wolfenstein 3D.  
 
-## 💎 C++ Development  
+### 💎 C++ Development  
 - [💬 ft_irc](https://github.com/pchapuis1/ft_irc) – IRC server built in C++.  
 - [🧮 computorv1](https://github.com/pchapuis1/computorv1) – Solving polynomial equations up to degree 2.  
 - [🔍 CPP-Modules](https://github.com/pchapuis1/CPP-Modules) – C++ programming modules.  
 
-## 📱 Mobile Development  
+### 📱 Mobile Development  
 - [📲 swiftyCompanion](https://github.com/pchapuis1/swiftyCompanion) – A Kotlin app to explore 42 student profiles.  
 
 ---  
