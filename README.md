@@ -17,7 +17,8 @@ Welcome to my profile! Below is a list of my projects categorized by language. C
 - [📚 libft](https://github.com/pchapuis1/libft) – A personal C library with useful functions.  
 - [📖 get_next_line](https://github.com/pchapuis1/get_next_line) – Optimized file reading function.  
 - [🖨️ ft_printf](https://github.com/pchapuis1/ft_printf) – Custom implementation of `printf`.  
-- [🕹️ cub3d](https://github.com/pchapuis1/cub3d) – Raycasting engine inspired by Wolfenstein 3D.  
+- [🕹️ cub3d](https://github.com/pchapuis1/cub3d) – Raycasting engine inspired by Wolfenstein 3D.
+- [✨ ft_transcendance](https://github.com/transcendencia/ft_transcendence) – SPA website game inspired of the original pong game.  
 
 ### 💎 C++ Development  
 - [💬 ft_irc](https://github.com/pchapuis1/ft_irc) – IRC server built in C++.  
@@ -29,6 +30,4 @@ Welcome to my profile! Below is a list of my projects categorized by language. C
 
 ---  
 
-🌱 **Currently learning**: Embedded systems and Android development with Kotlin.  
-📫 **Contact me**: [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/paulchapuis)  
-
+📫 **Contact me**: [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/paulchapuis)
