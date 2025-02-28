@@ -1,6 +1,7 @@
-## Hi there 👋, I'm Paul Chapuis
+<h1 align="center">Hi there👋, I'm Paul Chapuis</h1>
+<h3 align="center">Student at 42 Lyon</h3
 
-# 👨‍💻 My GitHub Projects  
+## 👨‍💻 My Projects  
 
 Welcome to my profile! Below is a list of my projects categorized by language. Click on a project to access its repository. 🚀  
 
