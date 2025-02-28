@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Paul Chapuis</h1>
-<h3 align="center">Student at 42 Lyon</h3
+<h3 align="center">Student at 42 Lyon</h3>
 
 ## 👨‍💻 My Projects  
 
