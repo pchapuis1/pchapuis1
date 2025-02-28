@@ -30,4 +30,4 @@ Welcome to my profile! Below is a list of my projects categorized by language. C
 
 ---  
 
-📫 **Contact me**: [LinkedIn](www.linkedin.com/in/paulchapuis)
+📫 **Contact me**: [LinkedIn](https://www.linkedin.com/in/paulchapuis/)
