@@ -22,7 +22,6 @@ Welcome to my profile! Below is a list of my projects categorized by language. C
 ## 💎 C++ Development  
 - [💬 ft_irc](https://github.com/pchapuis1/ft_irc) – IRC server built in C++.  
 - [🧮 computorv1](https://github.com/pchapuis1/computorv1) – Solving polynomial equations up to degree 2.  
-- [🧮 computorv2](https://github.com/pchapuis1/computorv2) – Extended version of computorv1 with more complex polynomials.  
 - [🔍 CPP-Modules](https://github.com/pchapuis1/CPP-Modules) – C++ programming modules.  
 
 ## 📱 Mobile Development  
